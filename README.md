@@ -27,7 +27,7 @@ This project involves scraping university ranking data from a Wikipedia page, pr
 
 4.	Next, we will generate visualizations using matplotlib to compare rankings and display locations. Upload `create_visualization.ipynb` notebook. In the Files section, upload `qs_world_university_rankings_with_locations.xlsx`. Now, run the code to view the visualizations of ranking and locations. You can also download it in .py format and run it on your computer in your terminal.
 
-5.	You can also refer to ‘uni_rankings.ipynb’ which contains the compiled code for the above mentioned steps for easy access. 
+5.	You can also refer to `uni_rankings.ipynb`  which contains the compiled code for the above mentioned steps for easy access. 
 
 
 ## Results
