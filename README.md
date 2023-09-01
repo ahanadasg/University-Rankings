@@ -16,7 +16,14 @@ This project involves scraping university ranking data from a Wikipedia page, pr
    ```
 
 ## Steps to Replicate
-1.	Open Google Colab or Jupyter Notebook and upload the `scrape_rankings.ipynb` notebook. Run the code to scrape the university rankings table from Wikipedia and store it in an Excel file. Alternatively, you can download it in .py format and run it on your computer in your terminal.
+1.	Open Google Colab or Jupyter Notebook and upload the `scrape_rankings.ipynb` notebook. Run the code to scrape the university rankings table from Wikipedia and store it in an Excel file. 
+Alternatively, you can download `scrape_rankings.ipynb`  in .py format(`scrape_rankings.py`  ) from Google Colab or Jupyter Notebook and run it on your computer. For that, go to command prompt and type the following:
+
+  ```
+   cd “directory in which `scrape_rankings.py`  
+   python scrape_rankings.py
+   ```
+Similarly, you can follow this step for other notebooks too.
 
 2.	Go to the Files section in Colab/Jupyter. You can view the `qs_world_university_rankings.xlsx` excel file. Download the excel file in your computer which contains the scrapped data of university rankings. It contains the name of the universities, the rankings in year 2023 and year 2024 respectively. You can also download it in .py format and run it on your computer in your terminal.
 
@@ -27,7 +34,8 @@ This project involves scraping university ranking data from a Wikipedia page, pr
 
 4.	Next, we will generate visualizations using matplotlib to compare rankings and display locations. Upload `create_visualization.ipynb` notebook. In the Files section, upload `qs_world_university_rankings_with_locations.xlsx`. Now, run the code to view the visualizations of ranking and locations. You can also download it in .py format and run it on your computer in your terminal.
 
-5.	You can also refer to `uni_rankings.ipynb`  which contains the compiled code for the above mentioned steps for easy access. 
+5.	You can also refer to `uni_rankings.ipynb` which contains the compiled code for the above mentioned steps for easy access. 
+
 
 
 ## Results
