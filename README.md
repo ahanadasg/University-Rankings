@@ -36,6 +36,15 @@ Similarly, you can follow this step for other notebooks too.
 
 5.	You can also refer to `uni_rankings.ipynb` which contains the compiled code for the above mentioned steps for easy access. 
 
+## Visualizations
+1. The below image shows bar plot for top 10 university rankings in 2023 and 2024 and uses positive values for 2024 rankings and negative values for 2023 rankings.
+   ![image](https://github.com/ahanadasg/University-Rankings/assets/113302918/c0fefdc5-5484-4e6f-8746-33d0c2cc4e19)
+
+   Displaying rankings in negative values in a bar plot is a common technique used to visually compare two sets of values that have opposite directions or meanings. In         this case, it's used to compare the rankings in 2024 and 2023 where lower values indicate better rankings. Using negative values for one of the years allows the bars to 
+   be plotted side by side on the same y-axis, providing a clear visual comparison between the two years.
+
+2. The below image shows a pie chart which visializes and provides percentage of maximum top colleges at a given country.
+   ![image](https://github.com/ahanadasg/University-Rankings/assets/113302918/a4ca9dc0-eacb-4190-a094-17a55be91f4c)
 
 
 ## Results
