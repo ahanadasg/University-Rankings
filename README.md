@@ -4,7 +4,7 @@
 This project involves scraping university ranking data from a Wikipedia page, processing the data, and creating visualizations to compare university rankings and locations. The project aims to provide insights into the rankings of universities across different years and locations.
 
 ## Project Dashboard
-[Link to Project Dashboard]((https://uni-ranking-dashboard-1.streamlit.app/)
+[Link to Project Dashboard](https://uni-ranking-dashboard-1.streamlit.app/)
 ## Prerequisites
 - Python (3.6 or higher)
 - Libraries: pandas, matplotlib, requests, beautifulsoup4
