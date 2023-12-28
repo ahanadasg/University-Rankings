@@ -22,7 +22,7 @@ This project involves scraping university ranking data from a Wikipedia page, pr
 Alternatively, you can download `scrape_rankings.ipynb`  in .py format(`scrape_rankings.py`  ) from Google Colab or Jupyter Notebook and run it on your computer. For that, go to command prompt and type the following:
 
   ```
-   cd “directory in which `scrape_rankings.py`  
+   cd “directory in which `scrape_rankings.py` is located"
    python scrape_rankings.py
    ```
 Similarly, you can follow this step for other notebooks too.
